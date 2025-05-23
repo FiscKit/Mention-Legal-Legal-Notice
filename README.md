@@ -8,9 +8,9 @@ Welcome to the official **FiscKit** privacy portal, your interactive guide to th
 
 ## 🌐 Choisissez votre langue / Choose your language
 
-[🇫🇷 Consulter la politique de confidentialité (FR)](privacy-policy.md)
+[🇨🇦 Consulter la politique de confidentialité (FR)](politique-de-confidentialité.md)
 
-[🇬🇧 View the privacy policy (EN)](privacy-policy.md)
+[🇨🇦 View the privacy policy (EN)](privacy-policy.md)
 
 ---
 
