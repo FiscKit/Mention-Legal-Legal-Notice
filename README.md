@@ -4,7 +4,7 @@ Bienvenue sur le dépôt GitHub des documents légaux de **FiscKit**.
 Cette page vous permet d’accéder facilement à l’ensemble des fichiers : Conditions d’utilisation, EULA, Politique de confidentialité, Disclaimer, etc.
 
 Welcome to the GitHub repository for **FiscKit** legal documents.
-This page gives you quick access to all files in both French and English.
+This page provides easy access to all documents: Terms of Service, EULA, Privacy Policy, Disclaimer, etc.
 
 ---
 
