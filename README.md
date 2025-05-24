@@ -1,4 +1,4 @@
-# 📄 Documents légaux / Legal Documents
+# 🇨🇦 Documents légaux / Legal Documents
 
 Bienvenue sur le dépôt GitHub des documents légaux de **FiscKit**.  
 Cette page vous permet d’accéder facilement à l’ensemble des fichiers : Conditions d’utilisation, EULA, Politique de confidentialité, Disclaimer, etc.
