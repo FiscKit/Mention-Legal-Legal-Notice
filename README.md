@@ -1,4 +1,4 @@
-# 🔒 Politique de confidentialité / Privacy Policy – FiscKit
+# 🔒 Politique de confidentialité / Privacy Policye – FiscKit
 
 Bienvenue sur la page de confidentialité officielle de **FiscKit**, votre guide interactif de la Loi de l'impôt sur le revenu du Canada.
 
